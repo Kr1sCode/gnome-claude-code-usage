@@ -3,6 +3,6 @@
   "name": "Claude Code Usage Bars",
   "description": "Shows Claude Code's 5-hour session and 7-day usage limits as two always-visible progress bars at the bottom of the Quick Settings menu — no clicking required. Reads the existing login credentials from ~/.claude/.credentials.json (the same file the Claude Code CLI uses), so there is nothing extra to sign in to. Not affiliated with or endorsed by Anthropic.",
   "shell-version": ["46", "47", "48", "49", "50"],
-  "url": "https://github.com/Kr1sCode",
+  "url": "https://github.com/Kr1sCode/gnome-claude-code-usage",
   "version-name": "1.0"
 }

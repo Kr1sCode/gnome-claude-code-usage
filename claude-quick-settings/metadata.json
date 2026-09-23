@@ -3,6 +3,6 @@
   "name": "Claude Code Usage Minimal",
   "description": "Shows Claude Code's 5-hour and 7-day usage limits as a single tile in the Quick Settings menu, next to Wi-Fi and Bluetooth — click it to expand full details (percentages, reset countdowns). Reads the existing login credentials from ~/.claude/.credentials.json (the same file the Claude Code CLI uses), so there is nothing extra to sign in to. Not affiliated with or endorsed by Anthropic.",
   "shell-version": ["46", "47", "48", "49", "50"],
-  "url": "https://github.com/Kr1sCode",
+  "url": "https://github.com/Kr1sCode/gnome-claude-code-usage",
   "version-name": "1.0"
 }
